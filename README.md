@@ -13,7 +13,8 @@ In order to install the necessary dependencies, open the console and run the fol
 ```npm install axios, npm install bootstrap```
 
 ### Video:
-
+[Video Demo link](https://watch.screencastify.com/v/HH4XR2TFY8PjPVWufy1y)
+![myImage](https://media.giphy.com/media/5ubc8tjoOTvPv3RCGo/giphy.gif)
 
 
 ### License:
