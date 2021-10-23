@@ -1,8 +1,8 @@
 {
-  "name": "employeedirectory",
+  "name": "EDR",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DevinPawline.github.io/employeedirectory/",
+  "homepage": "https://https://github.com/Jnm8787/EDR/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
