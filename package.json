@@ -2,7 +2,7 @@
   "name": "EDR",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://github.com/Jnm8787/EDR/",
+  "homepage": "http//localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
